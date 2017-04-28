@@ -12,7 +12,6 @@ INCLUDE_SETTINGS_BUNDLE = NO
 
 // Adjust SDK Variables
 ADJUST_ENVIRONMENT =
-<<<<<<< HEAD
 ADJUST_APP_TOKEN =
 
 // Leanplum SDK Variables
