@@ -337,6 +337,7 @@ extension Navigator {
     func selectOptionFromBrowserTabMenu(view: selectMenuOption) {
         self.goto(BrowserTabMenu)
         let app = XCUIApplication()
+        sleep(2)
         if  app.collectionViews.cells[view.rawValue].exists {
             app.collectionViews.cells[view.rawValue].tap()
         } else {

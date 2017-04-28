@@ -169,9 +169,7 @@ class NavigationTest: BaseTestCase {
 
         // From desktop view it is posible to change to mobile view again
         navigator.nowAt(BrowserTab)
-        //
         navigator.selectOptionFromBrowserTabMenu(view: .requestMobile)
-
         checkMobileView()
     }
 
