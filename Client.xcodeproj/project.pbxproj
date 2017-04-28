@@ -5222,7 +5222,7 @@
 				E6A92ADB1C52A8DA00743291 /* LoginInputTests.swift in Sources */,
 				D375A9201AE71675001B30D5 /* ViewMemoryLeakTests.swift in Sources */,
 				D313BE981B2F5096009EF241 /* DomainAutocompleteTests.swift in Sources */,
-				4F97573C1AFA6F37006ECC24 /* ReaderViewUITests.swift in Sources */,
+				7BB20B6D1B71160200F1657F /* TopSitesTests.swift in Sources */,
 				D3CFD3641CC5605B0064AB4A /* SecurityTests.swift in Sources */,
 				D39FA1831A83E87900EE869C /* NavigationTests.swift in Sources */,
 				D3C3EB651B6FF44000388E9A /* SessionRestoreTests.swift in Sources */,
