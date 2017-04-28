@@ -1,4 +1,4 @@
-// This Source Code Form is subject to the terms of the Mozilla Public
+udo/ This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this
 // file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
@@ -6,7 +6,6 @@ MOZ_BUNDLE_DISPLAY_NAME = Fennec
 
 // Bundle Identifier
 MOZ_BUNDLE_ID = org.mozilla.ios.FennecEnterprise
-
 
 // The suffix of the app group identifier used for sharing data across
 // extensions and keychain
@@ -23,4 +22,3 @@ ADJUST_APP_TOKEN =
 LEANPLUM_ENVIRONMENT =
 LEANPLUM_APP_ID =
 LEANPLUM_KEY =
-
