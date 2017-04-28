@@ -1,0 +1,3 @@
+ignore:
+  #- "path/to/folder"   ignore folders and all its contents
+  - "./ThirdParty"
